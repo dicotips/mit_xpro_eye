@@ -8,6 +8,8 @@ El proyecto de "Eyes Tracking" es parte de la semana 8 del [Certificado Profesio
 
 ### Licencia: [MIT License](https://opensource.org/licenses/MIT)
 
+## Descargar y Ejecutar
+
 Puedes descargar el codigo fuente clonando este repositorio con Git.
 
 1. Abre tu aplicaciøn favorita para la terminal de comandos, como: Terminal, Command, Console, iTerm2, u otros.
