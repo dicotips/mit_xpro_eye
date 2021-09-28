@@ -1,4 +1,4 @@
-# Proyecto Pacmen en Javascript
+# Proyecto Eye en Javascript
 
 :us: [README.md in English](README.md)
 
